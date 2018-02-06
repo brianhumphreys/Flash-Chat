@@ -8,4 +8,3 @@ Download the starter project files as .zip and extract to your desktop. --->
 
 
 
-Copyright 2015 London App Brewery
